@@ -1,4 +1,4 @@
-![alt text](https://github.com/BrendonD-Mr/MountainShooter/blob/main/asset/Player1.png) #### Mountain Shooter ![alt text](https://github.com/BrendonD-Mr/MountainShooter/blob/main/asset/Player1.png)
+![alt text](https://github.com/BrendonD-Mr/MountainShooter/blob/main/asset/Player1.png) # Mountain Shooter ![alt text](https://github.com/BrendonD-Mr/MountainShooter/blob/main/asset/Player1.png)
 
 
 
